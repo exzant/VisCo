@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "795169181360",
+    "firebase_url": "https://visco-1.firebaseio.com",
+    "project_id": "visco-1",
+    "storage_bucket": "visco-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795169181360:android:491a308c42012410",
+        "android_client_info": {
+          "package_name": "com.ekosantoso.visco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795169181360-vj0vld5p9trs67d0fk4q0t62jijd7tf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7vf-URqrVLvUiKaF2PvDfL3XuOwhnhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
